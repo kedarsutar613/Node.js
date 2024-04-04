@@ -1,0 +1,20 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.0.0-beta.2",
+    "ejs": "^3.1.9",
+    "express": "^5.0.0-beta.2",
+    "file-system": "^2.2.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.2.4",
+    "os-name": "^6.0.0"
+  }
+}
